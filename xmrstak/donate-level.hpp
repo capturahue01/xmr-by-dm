@@ -12,7 +12,9 @@
  * 4581HhZkQHgZrZjKeCfCJxZff9E3xCgHGF25zABZz7oR71TnbbgiS7sK9jveE6Dx6uMs2LwszDuvQJgRZQotdpHt1fTdDhk
  * psychocrypt:
  * 43NoJVEXo21hGZ6tDG6Z3g4qimiGdJPE6GRxAmiWwm26gwr62Lqo7zRiCJFSBmbkwTGNuuES9ES5TgaVHceuYc4Y75txCTU
+ * 
  *
+ *              Editado para 0% por Damião hehe
  */
 
 constexpr double fDevDonationLevel = 0.0 / 100.0;
